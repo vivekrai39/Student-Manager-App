@@ -1,0 +1,26 @@
+conditional - logic
+loops - menu system
+dictionary - store data
+
+teacher :
+1 - add student 
+2 - view all students
+3 - check result 
+4 - exist 
+
+---------------------------
+Password  manager Program 
+uses:
+1-dictionary
+2-loops
+3-conditional
+4-module: randaom
+5-file hanling 
+
+website : Password
+
+random module 
+file read/write
+real world
+
+ 
